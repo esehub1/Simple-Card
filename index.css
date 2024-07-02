@@ -3,7 +3,7 @@ body {
     padding: 0;
     height: 100vh;
     display: gird;
-    place-items: center;
+    place-items: centre;
     background: #2D2E36;
     font-family: 'Poppins';
 }
